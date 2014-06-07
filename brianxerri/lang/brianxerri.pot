@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: brianxerri Blog Theme\n"
+"POT-Creation-Date: 2014-03-18 00:44+0200\n"
+"PO-Rebrianxerri-Date: 2014-03-20 14:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: Burak Aydın <burak_sdu@outlook.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Page not found. You can search below"
+msgstr ""
+
+#: ../archive.php:14
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../author.php:14
+msgid "Author Posts"
+msgstr ""
+
+#: ../category.php:14
+msgid "Category Posts"
+msgstr ""
+
+#: ../comments.php:9 ../content-aside.php:22 ../content.php:34 ../page.php:33
+#: ../single.php:32
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comment ( 1 )"
+msgstr ""
+
+#: ../comments.php:9
+msgid "Comments ( % )"
+msgstr ""
+
+#: ../comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-aside.php:19 ../content-chat.php:19 ../content.php:29
+#: ../single.php:29
+msgid "POSTED BY"
+msgstr ""
+
+#: ../content-aside.php:19 ../content-chat.php:19 ../content.php:29
+#: ../single.php:29
+msgid "IN"
+msgstr ""
+
+#: ../content-aside.php:20 ../content-chat.php:20 ../content.php:31
+#: ../page.php:31 ../single.php:30
+msgid "Edit"
+msgstr ""
+
+#: ../content-aside.php:22 ../content.php:34 ../page.php:33 ../single.php:32
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-aside.php:22 ../content.php:34 ../page.php:33 ../single.php:32
+msgid "% Comments"
+msgstr ""
+
+#: ../content-aside.php:25 ../content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:38
+msgid "Read More"
+msgstr ""
+
+#: ../footer.php:9
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../footer.php:15
+msgid "Powered by"
+msgstr ""
+
+#: ../footer.php:15
+msgid "Theme by"
+msgstr ""
+
+#: ../functions.php:41
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:42
+msgid "Mobile Top Menu"
+msgstr ""
+
+#: ../functions.php:66 ../functions.php:69
+msgid "on"
+msgstr ""
+
+#: ../functions.php:150
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:187
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:188
+msgid "This sidebar is located right side."
+msgstr ""
+
+#: ../functions.php:200
+msgid "Left Footer Widget"
+msgstr ""
+
+#: ../functions.php:201 ../functions.php:215 ../functions.php:228
+msgid "This widget is located left side."
+msgstr ""
+
+#: ../functions.php:214
+msgid "Middle Footer Widget"
+msgstr ""
+
+#: ../functions.php:227
+msgid "Right Footer Widget"
+msgstr ""
+
+#: ../functions.php:301 ../functions/customizer.php:13
+msgid "Slider"
+msgstr ""
+
+#: ../functions.php:302
+msgid "All Sliders"
+msgstr ""
+
+#: ../functions.php:303
+msgid "Add Slider"
+msgstr ""
+
+#: ../search.php:14
+msgid "Search Results for"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: ../slider.php:29
+msgid "No Slider Found."
+msgstr ""
+
+#: ../tag.php:14
+msgid "Tag Posts"
+msgstr ""
+
+#: ../functions/customizer.php:25
+msgid "Display Slider ?"
+msgstr ""
+
+#: ../functions/customizer.php:35
+msgid "Logo"
+msgstr ""
+
+#: ../functions/customizer.php:48
+msgid "Upload Logo"
+msgstr ""
+
+#: ../functions/customizer.php:60
+msgid "Footer Text"
+msgstr ""
+
+#: ../functions/customizer.php:72
+msgid "Display Default Text ?"
+msgstr ""
