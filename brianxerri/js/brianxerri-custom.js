@@ -60,5 +60,14 @@ jQuery('.fa-search').click(function(){
 
 });
 
+/**********************************************************************************
+/* Portfolio Gallery *
+**********************************************************************************/
+
+jQuery('.portfolioPreview').hover(function() {
+	jQuery(this).find('.details').animate({ bottom: '0px'}, {queue:false,duration:300});
+}, function() {
+	jQuery(this).find('.details').animate({ bottom: '-260px'}, {queue:false,duration:300});
+});
 
 });
