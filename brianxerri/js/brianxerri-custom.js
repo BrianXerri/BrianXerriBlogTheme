@@ -65,9 +65,9 @@ jQuery('.fa-search').click(function(){
 **********************************************************************************/
 
 jQuery('.portfolioPreview').hover(function() {
-	jQuery(this).find('.details').animate({ bottom: '0px'}, {queue:false,duration:300});
+	jQuery(this).find('.details').animate({ top: '0%', marginTop: '0px' }, {queue:false,duration:300});
 }, function() {
-	jQuery(this).find('.details').animate({ bottom: '-260px'}, {queue:false,duration:300});
+	jQuery(this).find('.details').animate({ top: '100%', marginTop: '-35px' }, {queue:false,duration:300});
 });
 
 });
